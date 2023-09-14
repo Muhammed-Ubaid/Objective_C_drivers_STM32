@@ -1,0 +1,10 @@
+../Src/stm32f4_gpio_lib.c:14:6:LIB_GPIO_Init	32	static
+../Src/stm32f4_gpio_lib.c:48:15:LIB_GPIO_ReadPin	24	static
+../Src/stm32f4_gpio_lib.c:62:6:LIB_GPIO_WritePin	16	static
+../Src/stm32f4_gpio_lib.c:74:6:LIB_GPIO_TogglePin	16	static
+../Src/stm32f4_gpio_lib.c:79:6:__LIB_RCC_GPIOA_CLK_ENABLE	4	static
+../Src/stm32f4_gpio_lib.c:80:6:__LIB_RCC_GPIOB_CLK_ENABLE	4	static
+../Src/stm32f4_gpio_lib.c:81:6:__LIB_RCC_GPIOC_CLK_ENABLE	4	static
+../Src/stm32f4_gpio_lib.c:82:6:__LIB_RCC_GPIOD_CLK_ENABLE	4	static
+../Src/stm32f4_gpio_lib.c:83:6:__LIB_RCC_GPIOE_CLK_ENABLE	4	static
+../Src/stm32f4_gpio_lib.c:84:6:__LIB_RCC_GPIOH_CLK_ENABLE	4	static
