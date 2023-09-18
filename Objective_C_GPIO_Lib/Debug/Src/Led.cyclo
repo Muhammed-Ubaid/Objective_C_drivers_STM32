@@ -1,0 +1,9 @@
+../Inc/led.h:71:20:Led_runDiagnostics_vcall	1
+../Inc/led.h:76:24:Led_computeEffi_vcall	1
+../Src/Led.c:14:6:Led_ctor	9
+../Src/Led.c:92:6:Led_setState	9
+../Src/Led.c:156:15:Led_getState	5
+../Src/Led.c:180:13:run_diagnostics	1
+../Src/Led.c:184:17:compute_efficiency	1
+../Src/Led.c:194:6:runSystemDiagnostics	2
+../Src/Led.c:203:6:computeLedEffs	2

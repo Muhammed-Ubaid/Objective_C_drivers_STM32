@@ -1,0 +1,5 @@
+../Src/MedicalLed.c:12:7:MedicalLed_ctor	1
+../Src/MedicalLed.c:33:21:MedicalLed_getWavelength	1
+../Src/MedicalLed.c:36:8:MedicalLed_setWavelength	1
+../Src/MedicalLed.c:42:12:MedicalLed_computeEfficiency	2
+../Src/MedicalLed.c:70:7:MedicalLed_runDiagnostics	2
