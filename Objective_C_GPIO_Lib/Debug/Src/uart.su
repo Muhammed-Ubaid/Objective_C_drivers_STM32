@@ -1,0 +1,7 @@
+../Src/uart.c:11:6:USART2_Init	4	static
+../Src/uart.c:37:5:USART2_write	16	static
+../Src/uart.c:45:5:USART2_read	4	static
+../Src/uart.c:51:5:__io_putchar	16	static
+C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506\tools\bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/include/stdio.h:222:5:fgetc	24	static
+C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506\tools\bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/include/stdio.h:224:5:fputc	16	static
+../Src/uart.c:91:6:test_setup	8	static

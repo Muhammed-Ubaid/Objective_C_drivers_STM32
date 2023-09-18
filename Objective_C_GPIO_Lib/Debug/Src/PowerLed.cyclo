@@ -1,0 +1,10 @@
+../Src/PowerLed.c:10:6:PowerLed_ctor	1
+../Src/PowerLed.c:37:6:PowerLed_setCurrent	1
+../Src/PowerLed.c:42:6:PowerLed_setDiameter	1
+../Src/PowerLed.c:47:6:PowerLed_setVoltage	1
+../Src/PowerLed.c:53:15:PowerLed_computePower	1
+../Src/PowerLed.c:59:15:PowerLed_getCurrent	1
+../Src/PowerLed.c:64:15:PowerLed_getDiameter	1
+../Src/PowerLed.c:70:15:PowerLed_getVoltage	1
+../Src/PowerLed.c:76:12:PowerLed_computeEfficiency	1
+../Src/PowerLed.c:96:7:PowerLed_runDiagnostics	2

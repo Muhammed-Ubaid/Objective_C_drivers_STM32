@@ -1,0 +1,9 @@
+../Inc/led.h:71:20:Led_runDiagnostics_vcall	16	static
+../Inc/led.h:76:24:Led_computeEffi_vcall	16	static
+../Src/Led.c:14:6:Led_ctor	16	static
+../Src/Led.c:92:6:Led_setState	16	static
+../Src/Led.c:156:15:Led_getState	16	static
+../Src/Led.c:180:13:run_diagnostics	16	static
+../Src/Led.c:184:17:compute_efficiency	16	static
+../Src/Led.c:194:6:runSystemDiagnostics	24	static
+../Src/Led.c:203:6:computeLedEffs	24	static

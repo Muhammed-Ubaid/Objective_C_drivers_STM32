@@ -1,0 +1,5 @@
+../Src/MedicalLed.c:12:7:MedicalLed_ctor	16	static
+../Src/MedicalLed.c:33:21:MedicalLed_getWavelength	16	static
+../Src/MedicalLed.c:36:8:MedicalLed_setWavelength	16	static
+../Src/MedicalLed.c:42:12:MedicalLed_computeEfficiency	24	static
+../Src/MedicalLed.c:70:7:MedicalLed_runDiagnostics	24	static
