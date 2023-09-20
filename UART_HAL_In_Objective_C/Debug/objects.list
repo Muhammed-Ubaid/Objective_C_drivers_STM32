@@ -1,0 +1,6 @@
+"./Src/main.o"
+"./Src/my_stm32f4_gpio_lib.o"
+"./Src/my_stm32f4_uart_lib.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f446retx.o"
